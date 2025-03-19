@@ -1,0 +1,30 @@
+.pokedexcontainer {
+    background-image: url(images/container_bg.png);
+    width: 500px;
+}
+
+.pokedexcontainer .logo {
+    width: 50%;
+    height: 100%;
+}
+
+.pokedexcontainer .pokecards {
+    border: 1px solid black;
+    width: 250px;
+}
+
+.pokemon-types .fire {
+    background-color: red;
+}
+
+.pokemon-types .wind {
+    background-color: lightblue;
+}
+
+.pokemon-number {
+    color: lightgray;
+}
+
+.pokemon-name {
+    font-weight: 900;
+}
